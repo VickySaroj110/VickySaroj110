@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Luffy banner (width bada diya) -->
-  <img src="Luffy.jpg" alt="Luffy Gear 5" width="800" />
+  <img src="Luffy.gif" alt="Luffy Gear 5" width="800" />
 </p>
 
 <h3 align="center">
